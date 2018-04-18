@@ -1,4 +1,4 @@
-# Section 6
+# Section 8
 
 Introduction to Flask-Restful library with an item API.
 
