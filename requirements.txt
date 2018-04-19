@@ -1,4 +1,5 @@
-flask
-flask_restful
-flask_jwt
+Flask
+Flask_RESTful
+Flask_JWT
 Flask-SQLAlchemy==2.1
+uwsgi
