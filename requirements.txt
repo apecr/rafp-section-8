@@ -3,3 +3,4 @@ Flask_RESTful
 Flask_JWT
 Flask-SQLAlchemy==2.1
 uwsgi
+psycopg2
